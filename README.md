@@ -27,7 +27,7 @@ Matplotlib,
 CSV.
 
 # Result
-![Result](python.jpg)
+![Result](py2.jpg)
 
 
 
