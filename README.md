@@ -20,11 +20,11 @@ To develop and evaluate a Machine Learning  model that could classify vehicles b
 
 
 # TECHNOLOGIES USED
-Python
-Pandas
-Scikit-learn(sklearn)
-Matplotlib
-CSV
+Python,
+Pandas,
+Scikit-learn(sklearn),
+Matplotlib,
+CSV.
 
 # Result
 
