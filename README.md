@@ -27,8 +27,6 @@ Matplotlib,
 CSV.
 
 # Result
-## Sample Image
-
 ![Result](python.jpg)
 
 
