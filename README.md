@@ -1,5 +1,5 @@
 # Predicting vehicle type or class using Machine Learning
-Think that you work for an Automotive company and you want to develop a system that should recognize and classify different types of vehicles based on their attributes automatically. These properties may be compactness, circularity, aspect ratios, and more, depending on the data set we use... And your aim is to build an ML model that could accurately classify the vehicles into their specific classes such as Bus, car, truck, etc.
+Think that you work for an Automotive company and you want to develop a system that should recognize and classify different types of vehicles based on their attributes automatically. The properties that we use may be compactness, circularity, aspect ratios, and more; depending on the data set we use... And your aim is to build an ML model that could accurately classify the vehicles into their specific classes such as Bus, car, truck, etc.
 # Aim
 To develop and evaluate a Machine Learning  model that could classify vehicles based on their features 
 # Major steps
